@@ -10,6 +10,23 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var myHeader: UILabel!
+    
+    @IBOutlet weak var ageInput: UITextField!
+    
+    @IBOutlet weak var message: UILabel!
+    
+    @IBAction func theClicker(sender: AnyObject) {
+    
+        var age = ageInput.text.toInt()
+        
+        age = age! * 7
+        
+        message.text="Your cat is \(age!) years old!"
+        
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

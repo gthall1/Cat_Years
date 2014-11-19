@@ -13,6 +13,7 @@
 		8B212AA41A1D22B5004AFB3B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B212AA31A1D22B5004AFB3B /* Images.xcassets */; };
 		8B212AA71A1D22B5004AFB3B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B212AA51A1D22B5004AFB3B /* LaunchScreen.xib */; };
 		8B212AB31A1D22B5004AFB3B /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B212AB21A1D22B5004AFB3B /* Cat_YearsTests.swift */; };
+		8B212ABD1A1D27C9004AFB3B /* Cute-Cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B212ABC1A1D27C9004AFB3B /* Cute-Cat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8B212AAC1A1D22B5004AFB3B /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B212AB11A1D22B5004AFB3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B212AB21A1D22B5004AFB3B /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
+		8B212ABC1A1D27C9004AFB3B /* Cute-Cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cute-Cat.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				8B212AA01A1D22B5004AFB3B /* Main.storyboard */,
 				8B212AA31A1D22B5004AFB3B /* Images.xcassets */,
 				8B212AA51A1D22B5004AFB3B /* LaunchScreen.xib */,
+				8B212ABC1A1D27C9004AFB3B /* Cute-Cat.jpg */,
 				8B212A9A1A1D22B5004AFB3B /* Supporting Files */,
 			);
 			path = "Cat Years";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B212AA21A1D22B5004AFB3B /* Main.storyboard in Resources */,
+				8B212ABD1A1D27C9004AFB3B /* Cute-Cat.jpg in Resources */,
 				8B212AA71A1D22B5004AFB3B /* LaunchScreen.xib in Resources */,
 				8B212AA41A1D22B5004AFB3B /* Images.xcassets in Resources */,
 			);
