@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D37CF818-F14C-45A6-B2A0-19B749FA989B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cat Years</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFEBB2351CEDFE10B5C56C520B56E1727977BE9F</key>
+		<string>https://github.com/gthall1/Cat_Years.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cat Years.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFEBB2351CEDFE10B5C56C520B56E1727977BE9F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gthall1/Cat_Years.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFEBB2351CEDFE10B5C56C520B56E1727977BE9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFEBB2351CEDFE10B5C56C520B56E1727977BE9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cat%20Years</string>
+		</dict>
+	</array>
+</dict>
+</plist>

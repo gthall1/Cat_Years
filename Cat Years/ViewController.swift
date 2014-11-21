@@ -20,9 +20,19 @@ class ViewController: UIViewController {
     
         var age = ageInput.text.toInt()
         
-        age = age! * 7
+        if ((age) != nil) {
+            
+            age = age! * 7
+            
+            message.text="Your cat is \(age) years old!";
+            
+        } else {
+            
+            message.text="Plese enter an actual number"
+            
+        }
         
-        message.text="Your cat is \(age!) years old!"
+        
         
     }
     
